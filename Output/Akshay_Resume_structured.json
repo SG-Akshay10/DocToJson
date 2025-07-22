@@ -1,0 +1,157 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "basics": {
+    "name": "Akshay S G",
+    "label": "Web Developer",
+    "image": "",
+    "email": "akshay10sg@gmail.com",
+    "phone": "+91 9176090049",
+    "url": "",
+    "summary": "",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "",
+        "username": "",
+        "url": ""
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Digital.ai Intern",
+      "location": "Bengaluru, India",
+      "description": "Built a Retrieval Augmented Generation (RAG) based chatbot using LangChain, FastAPI, and PGVector to automate responses for documentation-related queries, leading to a 40% reduction in monthly customer support inquiries and significantly decreasing reliance on the services team.",
+      "position": "",
+      "url": "",
+      "startDate": "2025-02",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "Built a Retrieval Augmented Generation (RAG) based chatbot using LangChain, FastAPI, and PGVector",
+        "Achieved 40% reduction in monthly customer support inquiries",
+        "Significantly decreased reliance on the services team"
+      ]
+    },
+    {
+      "name": "Matrice.ai Machine Learning Engineering Intern",
+      "location": "Remote",
+      "description": "Built a drag-and-drop no-code computer vision platform allowing users to train, annotate, export, and deploy models without writing code.",
+      "position": "",
+      "url": "",
+      "startDate": "2024-06",
+      "endDate": "2025-01",
+      "summary": "",
+      "highlights": [
+        "Built a drag-and-drop no-code computer vision platform",
+        "Achieved 75% reduction in upload time",
+        "Integrated multiple state-of-the-art computer vision architectures"
+      ]
+    },
+    {
+      "name": "Sports Mechanics India Pvt Ltd Data Science Intern",
+      "location": "Chennai, India",
+      "description": "Developed a real-time notification engine using Python to analyze live match data from cricket databases and detect key events using a rule-based system and delivered notifications to users through the platform app.",
+      "position": "",
+      "url": "",
+      "startDate": "2023-12",
+      "endDate": "2024-05",
+      "summary": "",
+      "highlights": [
+        "Developed a real-time notification engine using Python",
+        "Achieved 80% reduction in manual effort for human commentators",
+        "Integrated the notification engine with the commentary system"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Shiv Nadar University Chennai",
+      "url": "",
+      "area": "Artificial Intelligence and Data Science",
+      "studyType": "B.Tech",
+      "startDate": "2021-09",
+      "endDate": "2025-07",
+      "score": "8.5/10.0"
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Python",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "C",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "JAVA",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "JavaScript",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "HTML/CSS",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "React.js",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "Python",
+      "fluency": ""
+    }
+  ],
+  "interests": [
+    {
+      "name": "",
+      "keywords": []
+    }
+  ],
+  "references": [],
+  "projects": [
+    {
+      "name": "Chat-with-PDF",
+      "description": "Full-stack RAG QA system with source citation over multiple document uploads.",
+      "keywords": [],
+      "startDate": "",
+      "endDate": "",
+      "url": "",
+      "roles": []
+    },
+    {
+      "name": "TweetGuardian",
+      "description": "Developed twitter tweet abuse classifier using BERT+MLP; achieved F1 score: 0.91.",
+      "keywords": [],
+      "startDate": "",
+      "endDate": "",
+      "url": "",
+      "roles": []
+    }
+  ],
+  "meta": {
+    "canonical": "",
+    "version": "",
+    "lastModified": ""
+  }
+}
