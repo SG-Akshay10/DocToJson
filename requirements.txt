@@ -1,0 +1,10 @@
+streamlit
+unstructured[local-inference]
+jsonformer
+transformers
+torch
+accelerate
+sentencepiece
+pypdf
+python-docx
+openpyxl
